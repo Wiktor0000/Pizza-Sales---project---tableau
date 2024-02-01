@@ -7,7 +7,7 @@ The dataset used for this analysis contains information about pizza sales, inclu
 
 Queries:
 
-# Total Revenue
+### Total Revenue
 Query to calculate the total revenue generated from pizza sales.
 
 # Average Order Value
