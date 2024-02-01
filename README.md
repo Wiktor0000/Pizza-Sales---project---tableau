@@ -10,49 +10,49 @@ Queries:
 ### Total Revenue
 Query to calculate the total revenue generated from pizza sales.
 
-# Average Order Value
+### Average Order Value
 Query to calculate the average order value.
 
-# Total Pizzas Sold
+### Total Pizzas Sold
 Query to calculate the total number of pizzas sold.
 
-# Total Orders
+### Total Orders
 Query to calculate the total number of orders.
 
-# Average Pizzas Per Order
+### Average Pizzas Per Order
 Query to calculate the average number of pizzas per order.
 
-# Hourly Trend for Total Pizzas Sold
+### Hourly Trend for Total Pizzas Sold
 Query to analyze the hourly trend for total pizzas sold.
 
-# Weekly Trend for Orders
+### Weekly Trend for Orders
 Query to analyze the weekly trend for orders.
 
-# % of Sales by Pizza Category
+### % of Sales by Pizza Category
 Query to calculate the percentage of sales by pizza category.
 
-# % of Sales by Pizza Size
+### % of Sales by Pizza Size
 Query to calculate the percentage of sales by pizza size.
 
-# Total Pizzas Sold by Pizza Category
+### Total Pizzas Sold by Pizza Category
 Query to calculate the total quantity of pizzas sold by pizza category for a specific month.
 
-# Top 5 Pizzas by Revenue
+### Top 5 Pizzas by Revenue
 Query to find the top 5 pizzas by revenue.
 
-# Bottom 5 Pizzas by Revenue
+### Bottom 5 Pizzas by Revenue
 Query to find the bottom 5 pizzas by revenue.
 
-# Top 5 Pizzas by Quantity
+### Top 5 Pizzas by Quantity
 Query to find the top 5 pizzas by quantity sold.
 
-# Bottom 5 Pizzas by Quantity
+### Bottom 5 Pizzas by Quantity
 Query to find the bottom 5 pizzas by quantity sold.
 
-# Top 5 Pizzas by Total Orders
+### Top 5 Pizzas by Total Orders
 Query to find the top 5 pizzas by total orders.
 
-# Bottom 5 Pizzas by Total Orders
+### Bottom 5 Pizzas by Total Orders
 Query to find the bottom 5 pizzas by total orders.
 
 Tableau Visualizations
