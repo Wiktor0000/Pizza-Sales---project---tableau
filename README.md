@@ -1,4 +1,4 @@
-Pizza Sales Analysis Project.
+-Pizza Sales Analysis Project-
 
 This repository contains SQL queries and Tableau visualizations for analyzing pizza sales data.
 
